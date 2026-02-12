@@ -1,7 +1,9 @@
 # nombre del equipo: LOS F_C_J
 Intengrantes:
 Jose Alejandro Martinez
+
 Cristian Diaz
+
 Luis Felipe Rueda Saldarriaga
 
 enlace:
