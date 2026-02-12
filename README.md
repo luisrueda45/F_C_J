@@ -1,5 +1,5 @@
 # nombre del equipo: LOS F_C_J
-Intengrantes:
+Integrantes:
 
 Jose Alejandro Martinez
 
