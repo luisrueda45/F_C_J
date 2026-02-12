@@ -1,9 +1,11 @@
-# nombre del equipo: F_C_J
+# nombre del equipo: LOS F_C_J
 Intengrantes:
 Jose Alejandro Martinez
 Cristian Diaz
 Luis Felipe Rueda Saldarriaga
-enlace: https://github.com/luisrueda45/F_C_J.git
+
+enlace:
+https://github.com/luisrueda45/F_C_J.git
 
 Nombre empresa: FCJ_IronFit
 sector economico: terciario
