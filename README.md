@@ -1,5 +1,11 @@
-# nombredel equipo: F_C_J
+# nombre del equipo: F_C_J
+Intengrantes:
+Jose Alejandro Martinez
+Cristian Diaz
+Luis Felipe Rueda Saldarriaga
 enlace: https://github.com/luisrueda45/F_C_J.git
+
+Nombre empresa: FCJ_IronFit
 sector economico: terciario
 Descripcion:
 El gimnacio maneja la informacion de clientes y pagos de forma manual, lo que genera desorden y errores.
