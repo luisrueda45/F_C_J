@@ -24,3 +24,29 @@ Solucion:
 
 Implementar un sistemas (pagina web) que permita registrar clientes, controlar pagos, generar reportes automaticamente y organizar el inventario.
 esto mejorara la eficiencia, reducira errores y facilitara la toma de decisiones en el gym
+
+## Arquitectura del Sistema: LOS F_C_J 
+
+# ENTRADAS:
+
+## ¿Qué datos recibe el sistema?
+
+Datos de clientes (nombre, identificación, contacto, plan adquirido).
+
+Información de pagos (monto, fecha, método de pago, estado).
+
+Datos de inventario (productos, cantidad, precios).
+
+# ¿Quién los ingresa?
+
+* Personal administrativo del gimnasio.
+
+* Recepcionista.
+
+* Posiblemente el administrador o dueño.
+  
+# ¿Son números, texto, archivos?
+
+Texto: nombres, direcciones, correos, tipo de plan.
+
+Números: montos de pago, cantidades de inventario, número de clientes.
