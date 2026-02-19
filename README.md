@@ -36,3 +36,7 @@ Datos de clientes (nombre, identificación, contacto, plan adquirido).
 Información de pagos (monto, fecha, método de pago, estado).
 
 Datos de inventario (productos, cantidad, precios).
+
+
+
+## Procesos
