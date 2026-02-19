@@ -37,6 +37,18 @@ Información de pagos (monto, fecha, método de pago, estado).
 
 Datos de inventario (productos, cantidad, precios).
 
+# ¿Quién los ingresa?
+
+* Personal administrativo del gimnasio.
+
+* Recepcionista.
+
+* Posiblemente el administrador o dueño.
+# ¿Son números, texto, archivos?
+
+Texto: nombres, direcciones, correos, tipo de plan.
+
+Números: montos de pago, cantidades de inventario, número de clientes.
 
 
 ## Procesos:
