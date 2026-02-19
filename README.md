@@ -44,6 +44,7 @@ Datos de inventario (productos, cantidad, precios).
 * Recepcionista.
 
 * Posiblemente el administrador o dueño.
+  
 # ¿Son números, texto, archivos?
 
 Texto: nombres, direcciones, correos, tipo de plan.
@@ -76,6 +77,12 @@ Puede validar fechar de vencimiento.
 # ¿Calcula?
 
 Si
+
+Total de ingresos.
+
+Clientes activos.
+
+Pagos pendientes.
 
 # ¿Guarda?
 
