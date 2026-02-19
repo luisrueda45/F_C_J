@@ -99,6 +99,7 @@ Almacena toda la informacion en una base de datos para consultar futuramente.
 esta
 
 ## USUARIOS Y ROLES
+
 # ¿Quién usa el sistema?
 
 * Administrador del gimnasio.
