@@ -86,4 +86,31 @@ Si
 ## ¿Guarda?
 
 * Si, Almacena toda la información en una base de datos para consultar futuramente.
+  
+# SALIDAS
+
+## ¿Que obtiene el usuario?
+
+* listado de clientes.
+
+* estado de pagos.
+
+* reportes del gimnasio.
+
+
+## ¿que genera el sistema?
+
+* reporte de ingresos.
+
+* clientes activos e inactivos
+
+* alertas de vencimiento.
+
+## ¿permite tomar decisiones?
+
+* saber ingresos mensuales.
+
+* identificar clientes morosos.
+
+* controlar inventario.
 
