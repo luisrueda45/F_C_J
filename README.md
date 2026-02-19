@@ -45,4 +45,6 @@ Datos de inventario (productos, cantidad, precios).
 
 * Posiblemente el administrador o dueño.
 
+
+
  
