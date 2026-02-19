@@ -87,3 +87,30 @@ Si
 Texto: nombres, direcciones, correos, tipo de plan.
 
 Números: montos de pago, cantidades de inventario, número de clientes.
+
+# SALIDAS
+
+## ¿Que obtiene el usuario?
+
+* listado de clientes.
+
+* estado de pagos.
+
+* reportes del gimnasio.
+
+
+## ¿que genera el sistema?
+
+* reporte de ingresos.
+
+* clientes activos e inactivos
+
+* alertas de vencimiento.
+
+## ¿permite tomar decisiones?
+
+* saber ingresos mensuales.
+
+* identificar clientes morosos.
+
+* controlar inventario.
