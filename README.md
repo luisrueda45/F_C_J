@@ -112,7 +112,7 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 
 # ¿Hay permisos?
 
-Si, hay diferentes niveles de acceso segun el rol que se tenga (Administador o empleado)
+* Si, hay diferentes niveles de acceso segun el rol que se tenga (Administador o empleado)
 
 ## SALIDAS
 # ¿Que obtiene el usuario?
@@ -136,6 +136,6 @@ Si, hay diferentes niveles de acceso segun el rol que se tenga (Administador o e
 
 * saber ingresos mensuales.
 
-*identificar clientes morosos.
+* identificar clientes morosos.
 
-*controlar inventario.
+* controlar inventario.
