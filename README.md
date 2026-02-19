@@ -25,11 +25,11 @@ Por ellos necesita un sistema de informacion que automatice los procesos y mejor
 Implementar un sistemas (pagina web) que permita registrar clientes, controlar pagos, generar reportes automaticamente y organizar el inventario.
 esto mejorara la eficiencia, reducira errores y facilitara la toma de decisiones en el gym
 
-# Arquitectura del Sistema: LOS F_C_J 
+## Arquitectura del Sistema: LOS F_C_J 
 
-## ENTRADAS:
+# ENTRADAS:
 
-# ¿Qué datos recibe el sistema?
+## ¿Qué datos recibe el sistema?
 
 Datos de clientes (nombre, identificación, contacto, plan adquirido).
 
@@ -90,13 +90,11 @@ Si
 
 
 
-## SALIDAS
+# SALIDAS
 
-# ¿Que obtiene el usuario?
+## ¿Que obtiene el usuario?
 
-*listado de clientes.
-
-esta
+* listado de clientes.
 
 ## USUARIOS Y ROLES
 
