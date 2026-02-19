@@ -39,7 +39,7 @@ Datos de inventario (productos, cantidad, precios).
 
 
 
-## Procesos
+## Procesos:
 
 # ¿Que hace el sistema con esos datos?
 
