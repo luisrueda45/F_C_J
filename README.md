@@ -56,39 +56,39 @@ Números: montos de pago, cantidades de inventario, número de clientes.
 
 # ¿Que hace el sistema con esos datos?
 
-Registrar clientes 
+*Registrar clientes 
 
-Controlar pagos 
+*Controlar pagos 
 
-Organizar inventario
+*Organizar inventario
 
-Genera reportes automaticos
+*Genera reportes automaticos
 
 # ¿Valida?
 
-Si
+*Si
 
-Verifica que los campos esten completos.
+*Verifica que los campos esten completos.
 
-Controla que los pagos correspondan al cliente.
+*Controla que los pagos correspondan al cliente.
 
-Puede validar fechar de vencimiento.
+*Puede validar fechar de vencimiento.
 
 # ¿Calcula?
 
-Si
+*Si
 
-Total de ingresos.
+*Total de ingresos.
 
-Clientes activos.
+*Clientes activos.
 
-Pagos pendientes.
+*Pagos pendientes.
 
 # ¿Guarda?
 
-Si
+*Si, Almacena toda la informacion en una base de datos para consultar futuramente.
 
-Almacena toda la informacion en una base de datos para consultar futuramente.
+
 
 ## SALIDAS
 
