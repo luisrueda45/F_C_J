@@ -63,8 +63,10 @@ Organizar inventario
 
 Genera reportes automaticos
 
-# SALIDAS
-¿Que obtiene el usuario?
+## SALIDAS
+# ¿Que obtiene el usuario?
+
 *listado de clientes.
+
 esta
 
