@@ -40,9 +40,14 @@ Datos de inventario (productos, cantidad, precios).
 
 
 ## Procesos
-#¿Que hace el sistema con esos datos?
+
+# ¿Que hace el sistema con esos datos?
+
 Registrar clientes 
+
 Controlar pagos 
+
 Organizar inventario
+
 Genera reportes automaticos
 
