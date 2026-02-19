@@ -88,6 +88,8 @@ Pagos pendientes.
 
 Si
 
+Almacena toda la informacion en una base de datos para consultar futuramente.
+
 ## SALIDAS
 
 # ¿Que obtiene el usuario?
