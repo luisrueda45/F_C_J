@@ -125,6 +125,7 @@ Si, hay diferentes niveles de acceso segun el rol que se tenga (Administador o e
 
 
 ¿que genera el sistema?
+
 *reporte de ingresos.
 
 *clientes activos e inactivos
@@ -132,6 +133,7 @@ Si, hay diferentes niveles de acceso segun el rol que se tenga (Administador o e
 *alertas de vencimiento.
 
 ¿permite tomar decisiones?
+
 *saber ingresos mensuales.
 
 *identificar clientes morosos.
