@@ -63,7 +63,19 @@ Organizar inventario
 
 Genera reportes automaticos
 
+# ¿Valida?
+
+Si
+
+¿Calcula?
+
+Si}
+# ¿Guarda?
+
+Si
+
 ## SALIDAS
+
 # ¿Que obtiene el usuario?
 
 *listado de clientes.
