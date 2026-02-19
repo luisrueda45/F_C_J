@@ -117,24 +117,24 @@ Si, hay diferentes niveles de acceso segun el rol que se tenga (Administador o e
 ## SALIDAS
 # ¿Que obtiene el usuario?
 
-*listado de clientes.
+* listado de clientes.
 
-*eestado de pagos.
+* estado de pagos.
 
-*reportes del gimnasio.
+* reportes del gimnasio.
 
 
-¿que genera el sistema?
+## ¿que genera el sistema?
 
-*reporte de ingresos.
+* reporte de ingresos.
 
-*clientes activos e inactivos
+* clientes activos e inactivos
 
-*alertas de vencimiento.
+* alertas de vencimiento.
 
-¿permite tomar decisiones?
+## ¿permite tomar decisiones?
 
-*saber ingresos mensuales.
+* saber ingresos mensuales.
 
 *identificar clientes morosos.
 
