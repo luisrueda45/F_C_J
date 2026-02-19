@@ -64,7 +64,7 @@ Números: montos de pago, cantidades de inventario, número de clientes.
 
 * Genera reportes automaticos
 
-# ¿Valida?
+## ¿Valida?
 
 Si
 
@@ -74,7 +74,7 @@ Si
 
 * Puede validar fechar de vencimiento.
 
-# ¿Calcula?
+## ¿Calcula?
 
 Si
 
@@ -84,7 +84,7 @@ Si
 
 * Pagos pendientes.
 
-# ¿Guarda?
+## ¿Guarda?
 
 * Si, Almacena toda la informacion en una base de datos para consultar futuramente.
 
@@ -93,27 +93,6 @@ Si
 # SALIDAS
 
 ## ¿Que obtiene el usuario?
-
-* listado de clientes.
-
-## USUARIOS Y ROLES
-
-# ¿Quién usa el sistema?
-
-* Administrador del gimnasio.
-
-* Recepcionista o personal administrativo.
-
-# ¿Todos hacen lo mismo?
-
-No, solo el administrador puede ver y configurar el sistema y el recepcionista puede regristar clientes y pagos
-
-# ¿Hay permisos?
-
-* Si, hay diferentes niveles de acceso segun el rol que se tenga (Administador o empleado)
-
-## SALIDAS
-# ¿Que obtiene el usuario?
 
 * listado de clientes.
 
@@ -137,3 +116,21 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 * identificar clientes morosos.
 
 * controlar inventario.
+
+# USUARIOS Y ROLES
+
+## ¿Quién usa el sistema?
+
+* Administrador del gimnasio.
+
+* Recepcionista o personal administrativo.
+
+## ¿Todos hacen lo mismo?
+
+No, solo el administrador puede ver y configurar el sistema y el recepcionista puede regristar clientes y pagos
+
+## ¿Hay permisos?
+
+* Si, hay diferentes niveles de acceso segun el rol que se tenga (Administador o empleado)
+
+
