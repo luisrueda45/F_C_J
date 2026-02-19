@@ -67,6 +67,12 @@ Genera reportes automaticos
 
 Si
 
+Verifica que los campos esten completos.
+
+Controla que los pagos correspondan al cliente.
+
+Puede validar fechar de vencimiento.
+
 # ¿Calcula?
 
 Si
