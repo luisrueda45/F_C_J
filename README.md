@@ -51,6 +51,36 @@ Texto: nombres, direcciones, correos, tipo de plan.
 
 Números: montos de pago, cantidades de inventario, número de clientes.
 
+# Procesos:
+# ¿Que hace el sistema con esos datos?
+
+•	Registrar clientes
+
+•	Controlar pagos
+
+•	Organizar inventario
+
+•	Genera reportes automáticos
+
+# ¿Valida?
+Si
+•	Verifica que los campos estén completos.
+
+•	Controla que los pagos correspondan al cliente.
+
+•	Puede validar fechar de vencimiento.
+# ¿Calcula?
+Si
+•	Total de ingresos.
+
+•	Clientes activos.
+
+•	Pagos pendientes.
+
+# ¿Guarda?
+
+•	Si, Almacena toda la informacion en una base de datos para consultar futuramente.
+
 
 
 
