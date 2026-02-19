@@ -52,9 +52,9 @@ Texto: nombres, direcciones, correos, tipo de plan.
 Números: montos de pago, cantidades de inventario, número de clientes.
 
 
-## Procesos:
+# Procesos:
 
-# ¿Que hace el sistema con esos datos?
+## ¿Que hace el sistema con esos datos?
 
 * Registrar clientes 
 
