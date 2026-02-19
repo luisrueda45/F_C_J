@@ -69,7 +69,8 @@ Si
 
 ¿Calcula?
 
-Si}
+Si
+
 # ¿Guarda?
 
 Si
