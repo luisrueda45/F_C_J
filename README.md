@@ -114,6 +114,22 @@ Si
 
 * controlar inventario.
 
+# USUARIOS
+
+## ¿Quién usa el sistema?
+
+* Administrador del gimnasio.
+
+* Recepcionista o personal administrativo.
+
+## ¿Todos hacen lo mismo?
+
+No, solo el administrador puede ver y configurar el sistema y el recepcionista puede registrar clientes y pagos
+
+## ¿Hay permisos?
+
+* Si, hay diferentes niveles de acceso según el rol que se tenga (Administrador o empleado)
+
 
 
 
