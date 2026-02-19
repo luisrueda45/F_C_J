@@ -67,7 +67,7 @@ Genera reportes automaticos
 
 Si
 
-¿Calcula?
+# ¿Calcula?
 
 Si
 
