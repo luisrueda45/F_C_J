@@ -29,10 +29,10 @@ esto mejorara la eficiencia, reducira errores y facilitara la toma de decisiones
 
 ENTRADAS:
 
-¿Qué datos recibe el sistema?
+# ¿Qué datos recibe el sistema?
 
-Datos de clientes (nombre, identificación, contacto, plan adquirido).
+# Datos de clientes (nombre, identificación, contacto, plan adquirido).
 
-Información de pagos (monto, fecha, método de pago, estado).
+# Información de pagos (monto, fecha, método de pago, estado).
 
-Datos de inventario (productos, cantidad, precios).
+# Datos de inventario (productos, cantidad, precios).
