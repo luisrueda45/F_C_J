@@ -130,3 +130,20 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 
 * Si, hay diferentes niveles de acceso según el rol que se tenga (Administrador o empleado)
 
+# INFORMACION
+
+## ¿Qué datos son críticos?
+
+* Datos personales de los clientes.
+
+* Información de pagos e ingresos.
+
+* Estado de clientes activos.
+
+## ¿Qué no se puede perder?
+
+* Historial de pagos.
+
+* Base de datos de clientes.
+
+* Información financiera del gimnasio.
