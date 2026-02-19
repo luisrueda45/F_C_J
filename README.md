@@ -133,4 +133,23 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 
 * Si, hay diferentes niveles de acceso segun el rol que se tenga (Administador o empleado)
 
+# INFORMACION 
+
+## ¿que datos son criticos?
+
+* datos de clientes.
+  
+* pagos.
+  
+* reportes financieros.
+
+## ¿que no se puede perder?
+
+* historial de pagos.
+  
+* informacion de clientes.
+  
+* registro del sistema.
+
+
 
