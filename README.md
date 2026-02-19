@@ -98,3 +98,17 @@ Almacena toda la informacion en una base de datos para consultar futuramente.
 
 esta
 
+## USUARIOS Y ROLES
+# ¿Quién usa el sistema?
+
+* Administrador del gimnasio.
+
+* Recepcionista o personal administrativo.
+
+# ¿Todos hacen lo mismo?
+
+No, solo el administrador puede ver y configurar el sistema y el recepcionista puede regristar clientes y pagos
+
+# ¿Hay permisos?
+
+Si, hay diferentes niveles de acceso segun el rol que se tenga (Administador o empleado)
