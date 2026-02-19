@@ -113,3 +113,27 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 # ¿Hay permisos?
 
 Si, hay diferentes niveles de acceso segun el rol que se tenga (Administador o empleado)
+
+## SALIDAS
+# ¿Que obtiene el usuario?
+
+*listado de clientes.
+
+*eestado de pagos.
+
+*reportes del gimnasio.
+
+
+¿que genera el sistema?
+*reporte de ingresos.
+
+*clientes activos e inactivos
+
+*alertas de vencimiento.
+
+¿permite tomar decisiones?
+*saber ingresos mensuales.
+
+*identificar clientes morosos.
+
+*controlar inventario.
