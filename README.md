@@ -45,6 +45,47 @@ Datos de inventario (productos, cantidad, precios).
 
 * Posiblemente el administrador o dueño.
 
+# Procesos:
 
+## ¿Que hace el sistema con esos datos?
+
+* Registrar clientes 
+
+* Controlar pagos 
+
+* Organizar inventario
+
+* Genera reportes automaticos
+
+## ¿Valida?
+
+Si
+
+* Verifica que los campos esten completos.
+
+* Controla que los pagos correspondan al cliente.
+
+* Puede validar fechar de vencimiento.
+
+## ¿Calcula?
+
+Si
+
+* Total de ingresos.
+
+* Clientes activos.
+
+* Pagos pendientes.
+
+## ¿Guarda?
+
+* Si, Almacena toda la informacion en una base de datos para consultar futuramente.
+
+  
+# ¿Son números, texto, archivos?
+
+Texto: nombres, direcciones, correos, tipo de plan.
+
+Números: montos de pago, cantidades de inventario, número de clientes.
 
  
