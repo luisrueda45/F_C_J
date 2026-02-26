@@ -164,4 +164,12 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 
 * Evaluar ingresos mensuales
 
+  ## ¿Que pasaria si no existiera ese sistema?
+
+* Desorden en la informacion
+
+* mayor probabilidad de errores
+
+* Dificultad para tomar deciciones y mejorar el servicios.
+
   
