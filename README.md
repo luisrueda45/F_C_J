@@ -186,3 +186,40 @@ Si no existiera el sistema, el gimnasio tendría:
 * Pérdida de tiempo en procesos manuales.
 
 * Dificultad para tomar decisiones y mejorar el servicio.
+
+# Objectivo general
+Desarrollar e implementar un sistema de informacion web que permita gestionar de manera automatizada los clientes, pagos e inventario del gimnasio, con el fin de mejorar la organizacion
+reducir errores y optimizar la toma de decisiones administrativas
+
+
+# Dos objetivos específicos
+1. Registrar y controlar la información de clientes y pagos en una base de datos organizada y actualizada en tiempo real.
+2. Generar reportes automáticos de ingresos, clientes activos y estado del inventario para facilitar el análisis financiero y administrativo
+
+# Nivel de decisión principal que impacta
+El sistema impacta principalmente el nivel táctico, ya que permite a la administración analizar información, identificar clientes dudosos y evaluar el rendimiento del negocio para mejorar su gestión
+
+# Características críticas que debe cumplir
+Exactitud: La información financiera y de clientes debe ser precisa.
+
+Confiabilidad: Los datos deben ser consistentes y seguros.
+
+Oportunidad: La información debe estar actualizada en tiempo real.
+
+Seguridad: Protección de datos personales y financieros.
+
+# ¿Qué decisión permitirá tomar?
+* Determinar si el gimnasio está generando ganancias o pérdidas.
+* Identificar clientes activos y morosos.
+* Decidir cuándo reabastecer inventario.
+* Ajustar precios o crear nuevos planes.
+* Planear posibles expansiones del negocio.
+
+
+
+
+
+
+
+
+
