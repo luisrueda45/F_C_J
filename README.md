@@ -147,3 +147,11 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 * Base de datos de clientes.
 
 * Información financiera del gimnasio.
+
+
+#¿Qué problema soluciona?
+
+El proyecto del gimnasio soluciona problemas de desorganización en la gestión de usuarios, control manual de inscripciones, pagos, asistencia y planes de entrenamiento.
+También reduce errores en registros y pérdida de información.
+
+
