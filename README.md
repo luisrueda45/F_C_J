@@ -155,3 +155,14 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
  * operativo: control diario de usuarios, asistencia y pagos.
 
  * Tactico: planificacion de promiciones, horarios y servicios segun la demanda.
+
+   # QUE DECISIONES PERMITIRA TOMAR?
+
+   * Controlar que usuarios estan activos o morosos.
+     
+   * Definir horarios y clases con mayor demanda.
+  
+   * Evaluar ingresos mensuales.
+  
+   * Mejorar la atencion y organizacion del gimnacio.
+     
