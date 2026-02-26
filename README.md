@@ -196,6 +196,18 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 * Seguridad: Protección de datos personales y financieros.
 
 
+## ¿Que decision permitira tomar?
+
+*Determinar si el gimnasio está generando ganancias o pérdidas.
+
+Decidir cuándo reabastecer inventario.
+
+Ajustar precios o crear nuevos planes.
+
+Planear posibles expansiones del negocio.
+
+
+
   
 
   
