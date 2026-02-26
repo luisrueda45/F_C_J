@@ -192,6 +192,10 @@ Desarrollar e implementar un sistema de informacion web que permita gestionar de
 reducir errores y optimizar la toma de decisiones administrativas
 
 
+# Dos objetivos específicos
+1. Registrar y controlar la información de clientes y pagos en una base de datos organizada y actualizada en tiempo real.
+2. Generar reportes automáticos de ingresos, clientes activos y estado del inventario para facilitar el análisis financiero y administrativo
+
 
 
 
