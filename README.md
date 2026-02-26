@@ -188,6 +188,14 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 
 * Generar reportes automáticos de ingresos, clientes activos y estado del inventario para facilitar el análisis financiero y administrativo.
 
+
+  ## Caracteristicas criticas que debe cumplir
+
+* Precision: La información financiera y de clientes debe ser precisa.
+
+* Seguridad: Protección de datos personales y financieros.
+
+
   
 
   
