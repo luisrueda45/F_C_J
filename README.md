@@ -196,6 +196,8 @@ reducir errores y optimizar la toma de decisiones administrativas
 1. Registrar y controlar la información de clientes y pagos en una base de datos organizada y actualizada en tiempo real.
 2. Generar reportes automáticos de ingresos, clientes activos y estado del inventario para facilitar el análisis financiero y administrativo
 
+# Nivel de decisión principal que impacta
+El sistema impacta principalmente el nivel táctico, ya que permite a la administración analizar información, identificar clientes dudosos y evaluar el rendimiento del negocio para mejorar su gestión
 
 
 
