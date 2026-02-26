@@ -165,4 +165,14 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
    * Evaluar ingresos mensuales.
   
    * Mejorar la atencion y organizacion del gimnacio.
+  
+     # QUE PASARIA SI NO EXIXTIERA ESE SISTEMA?
+
+     * Desorden en la informacion de clientes.
+    
+     * Mayor probabilidad de errores en pagos y registros.
+    
+     * Perdida de tiempo en procesos manuales.
+    
+     * Dificultad para tomar decisiones y mejorar el servicio.
      
