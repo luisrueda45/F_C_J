@@ -147,3 +147,11 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 * Base de datos de clientes.
 
 * Información financiera del gimnasio.
+
+  ## ¿A que nivel de decicio0n impacta?
+
+* Principalmente en el nivel operativo y tactico
+
+* Operativo: control diario de usuarios asistencia y pagos
+
+* Tactico: planificacion de promociones horarios y sevicios seguin la demanda.
