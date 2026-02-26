@@ -186,4 +186,9 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 
 * Generar reportes automáticos de ingresos, clientes activos y estado del inventario para facilitar el análisis financiero y administrativo.
 
+# NIVEL DE DECISION PRINCIPAL QUE IMPACTA
+
+El sistema impacta principalmente el nivel táctico, ya que permite a la administración analizar información mensual, controlar ingresos, identificar clientes morosos y evaluar el rendimiento del negocio para mejorar su gestión.
+
+
      
