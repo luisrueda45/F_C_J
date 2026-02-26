@@ -198,13 +198,13 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 
 ## ¿Que decision permitira tomar?
 
-*Determinar si el gimnasio está generando ganancias o pérdidas.
+* Determinar si el gimnasio está generando ganancias o pérdidas.
 
-Decidir cuándo reabastecer inventario.
+* Decidir cuándo reabastecer inventario.
 
-Ajustar precios o crear nuevos planes.
+* Ajustar precios o crear nuevos planes.
 
-Planear posibles expansiones del negocio.
+* Planear posibles expansiones del negocio.
 
 
 
