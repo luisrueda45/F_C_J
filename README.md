@@ -196,6 +196,18 @@ El sistema impacta principalmente el nivel táctico, ya que permite a la adminis
 
 * Seguridad: proteccion de datos personales y financieros.
 
+# QUE DECISION PERMITIRA TOMAR?
+
+* Determinar si el gimnasio está generando ganancias o pérdidas.
+
+* Identificar clientes activos y morosos.
+
+* Decidir cuándo reabastecer inventario.
+
+* Ajustar precios o crear nuevos planes.
+
+* Planear posibles expansiones del negocio.
+
 
 
 
