@@ -166,4 +166,13 @@ Permite analizar ingresos mensulaes, clientes activos y clientes deudores
 ## Nivel estrategico:
 Facilita la toma de decisiones a largo plazo, como expansion de negocio, creacion de nuevos planes o inversion en nuevos equipos 
 
+# ¿Qué decisiones permitirá tomar?
+* Controlar qué usuarios están activos o morosos.
 
+* Definir horarios y clases con mayor demanda.
+
+* Evaluar ingresos mensuales.
+
+* Mejorar la atención y organización del gimnasio.
+
+  
