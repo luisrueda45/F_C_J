@@ -175,4 +175,14 @@ Facilita la toma de decisiones a largo plazo, como expansion de negocio, creacio
 
 * Mejorar la atención y organización del gimnasio.
 
-  
+ # ¿Qué pasaría si no existiera ese sistema?
+
+Si no existiera el sistema, el gimnasio tendría:
+
+* Desorden en la información de clientes.
+
+* Mayor probabilidad de errores en pagos y registros.
+
+* Pérdida de tiempo en procesos manuales.
+
+* Dificultad para tomar decisiones y mejorar el servicio.
