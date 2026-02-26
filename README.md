@@ -147,3 +147,42 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 * Base de datos de clientes.
 
 * Información financiera del gimnasio.
+
+
+# 1.¿Qué problema soluciona?
+
+El proyecto FCJ_ironFit soluciona problemas de desorganización en la gestión de usuarios, control manual de inscripciones, pagos, asistencia y planes de entrenamiento.
+También reduce errores en registros y pérdida de información.
+
+# 2. ¿A qué nivel de decisión impacta?
+El sistema impacta en tres niveles de decision:
+
+## Nivel operativo:
+Mejora el registro diario de clientes, pagos e inventario
+
+## Nivel tactico: 
+Permite analizar ingresos mensulaes, clientes activos y clientes deudores
+
+## Nivel estrategico:
+Facilita la toma de decisiones a largo plazo, como expansion de negocio, creacion de nuevos planes o inversion en nuevos equipos 
+
+# ¿Qué decisiones permitirá tomar?
+* Controlar qué usuarios están activos o morosos.
+
+* Definir horarios y clases con mayor demanda.
+
+* Evaluar ingresos mensuales.
+
+* Mejorar la atención y organización del gimnasio.
+
+ # ¿Qué pasaría si no existiera ese sistema?
+
+Si no existiera el sistema, el gimnasio tendría:
+
+* Desorden en la información de clientes.
+
+* Mayor probabilidad de errores en pagos y registros.
+
+* Pérdida de tiempo en procesos manuales.
+
+* Dificultad para tomar decisiones y mejorar el servicio.
