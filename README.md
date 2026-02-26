@@ -190,5 +190,15 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 
 El sistema impacta principalmente el nivel táctico, ya que permite a la administración analizar información mensual, controlar ingresos, identificar clientes morosos y evaluar el rendimiento del negocio para mejorar su gestión.
 
+# CARACTERISTICAS CRITICAS QUE DEBE CUMPLIR
+
+* Precision: la informacion financiera y de clientes debe ser precisa.
+
+* Seguridad: proteccion de datos personales y financieros.
+
+
+
+
+
 
      
