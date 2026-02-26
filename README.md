@@ -155,3 +155,13 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 * Operativo: control diario de usuarios asistencia y pagos
 
 * Tactico: planificacion de promociones horarios y sevicios seguin la demanda.
+
+  ## ¿Que decision permite tomar?
+
+* Controlar que los usuarios estan activos o deudosos
+
+* Definir horarios y clases con mayor demanda
+
+* Evaluar ingresos mensuales
+
+  
