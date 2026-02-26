@@ -172,4 +172,9 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 
 * Dificultad para tomar deciciones y mejorar el servicios.
 
+## Objetivo general del sistema
+
+* Desarrollar e implementar un sistema de información web que permita gestionar de manera automatizada los clientes, pagos e inventario del gimnasio FCJ_IronFit, con el fin de mejorar la organización, reducir errores y optimizar la toma de decisiones administrativas.
+  
+
   
