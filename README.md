@@ -180,6 +180,11 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
   ## Dos objetivos especificos
 
 * Registrar y controlar la información de clientes y pagos en una base de datos organizada y actualizada en tiempo real.
+  
+
+  ## Nivel de decision que impacta
+
+* El sistema impacta principalmente el nivel táctico, ya que permite a la administración analizar información mensual y controlar ingresos
 
 * Generar reportes automáticos de ingresos, clientes activos y estado del inventario para facilitar el análisis financiero y administrativo.
 
