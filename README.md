@@ -186,3 +186,21 @@ Si no existiera el sistema, el gimnasio tendría:
 * Pérdida de tiempo en procesos manuales.
 
 * Dificultad para tomar decisiones y mejorar el servicio.
+
+# Objectivo general
+Desarrollar e implementar un sistema de informacion web que permita gestionar de manera automatizada los clientes, pagos e inventario del gimnasio, con el fin de mejorar la organizacion
+reducir errores y optimizar la toma de decisiones administrativas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
