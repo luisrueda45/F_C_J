@@ -200,9 +200,9 @@ reducir errores y optimizar la toma de decisiones administrativas
 El sistema impacta principalmente el nivel táctico, ya que permite a la administración analizar información, identificar clientes dudosos y evaluar el rendimiento del negocio para mejorar su gestión
 
 # Características críticas que debe cumplir
-Preicion: La información financiera y de clientes debe ser precisa.
+* Preicion: La información financiera y de clientes debe ser precisa.
 
-Seguridad: Protección de datos personales y financieros.
+* Seguridad: Protección de datos personales y financieros.
 
 # ¿Qué decisión permitirá tomar?
 * Determinar si el gimnasio está generando ganancias o pérdidas.
