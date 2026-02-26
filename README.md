@@ -208,7 +208,12 @@ Oportunidad: La información debe estar actualizada en tiempo real.
 
 Seguridad: Protección de datos personales y financieros.
 
-
+# ¿Qué decisión permitirá tomar?
+* Determinar si el gimnasio está generando ganancias o pérdidas.
+* Identificar clientes activos y morosos.
+* Decidir cuándo reabastecer inventario.
+* Ajustar precios o crear nuevos planes.
+* Planear posibles expansiones del negocio.
 
 
 
