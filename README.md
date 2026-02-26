@@ -200,12 +200,7 @@ reducir errores y optimizar la toma de decisiones administrativas
 El sistema impacta principalmente el nivel táctico, ya que permite a la administración analizar información, identificar clientes dudosos y evaluar el rendimiento del negocio para mejorar su gestión
 
 # Características críticas que debe cumplir
-Exactitud: La información financiera y de clientes debe ser precisa.
-
-Confiabilidad: Los datos deben ser consistentes y seguros.
-
-Oportunidad: La información debe estar actualizada en tiempo real.
-
+Preicion: La información financiera y de clientes debe ser precisa.
 Seguridad: Protección de datos personales y financieros.
 
 # ¿Qué decisión permitirá tomar?
