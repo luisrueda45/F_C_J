@@ -215,6 +215,8 @@ El sistema impacta principalmente el nivel táctico, ya que permite a la adminis
 
 <img width="657" height="497" alt="image" src="https://github.com/user-attachments/assets/cbcc2da7-4889-4ef5-aaa7-faa7d1ff5a46" />
 
+# DIAGRAMA UML
+<img width="1077" height="751" alt="image" src="https://github.com/user-attachments/assets/69ebcf2f-9095-4434-b2c3-997a0772e41a" />
 
 
 
