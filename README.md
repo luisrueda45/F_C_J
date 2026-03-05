@@ -212,6 +212,8 @@ El sistema impacta principalmente el nivel táctico, ya que permite a la adminis
 
 <img width="664" height="498" alt="image" src="https://github.com/user-attachments/assets/64862876-b8b4-4be5-b093-81f9333f2289" />
 
+<img width="657" height="497" alt="image" src="https://github.com/user-attachments/assets/cbcc2da7-4889-4ef5-aaa7-faa7d1ff5a46" />
+
 
 
 
