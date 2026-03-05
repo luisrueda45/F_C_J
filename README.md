@@ -210,7 +210,7 @@ El sistema impacta principalmente el nivel táctico, ya que permite a la adminis
 * Ajustar precios o crear nuevos planes.
 * Planear posibles expansiones del negocio.
 
-
+<img width="664" height="498" alt="image" src="https://github.com/user-attachments/assets/64862876-b8b4-4be5-b093-81f9333f2289" />
 
 
 
