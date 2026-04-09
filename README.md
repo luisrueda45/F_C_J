@@ -208,6 +208,10 @@ El sistema impacta principalmente el nivel táctico, ya que permite a la adminis
 
 * Planear posibles expansiones del negocio.
 
+  # DIAGRAMA DE FLUJO LOGING.1
+  <img width="398" height="542" alt="image" src="https://github.com/user-attachments/assets/ccbe9ea1-dc42-49fe-a8a3-056e9435eb87" />
+
+
 
 
 
