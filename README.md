@@ -149,7 +149,7 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 * Información financiera del gimnasio.
 
 #Diagrama-de-flujo-login-1
-<img width="398" height="545" alt="image" src="https://github.com/user-attachments/assets/bcd6126d-5bcb-4aec-a0fe-7b38c1767fde" />
+*<img width="398" height="545" alt="image" src="https://github.com/user-attachments/assets/bcd6126d-5bcb-4aec-a0fe-7b38c1767fde" />
 
 
 
