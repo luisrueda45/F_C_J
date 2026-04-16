@@ -8,5 +8,12 @@
 * El sistema debe permitir permitir la reserva de clases.
 * El sistema debe permitir generar rutinas de entrenamiento personalizadas.
 
+## 2. Requerimientos No Funcionales
+
+* El sistema debe ser compatible con diferentes dispositivos (computador y móvil).
+* El sistema debe ser Responder de manera rápida a las solicitudes del usuario.
+* El sistema debe ser fácil de usar, con una interfaz clara e intuitiva.
+* El sistema debe estar disponible la mayor parte del tiempo.
+* El sistema debe ser fácil de mantener y actualizar.
   
   
