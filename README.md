@@ -152,6 +152,12 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 *<img width="398" height="545" alt="image" src="https://github.com/user-attachments/assets/bcd6126d-5bcb-4aec-a0fe-7b38c1767fde" />
 #Diagrama-de-flujo-login-2
 <img width="475" height="624" alt="image" src="https://github.com/user-attachments/assets/1e996740-bf45-41e6-89ce-f83fec1d84a8" />
+#proceso-principal
+
+<img width="350" height="621" alt="image" src="https://github.com/user-attachments/assets/afa26ca6-75a7-4bfb-bd07-c83aa2ef6731" />
+
+
+
 
 
 
