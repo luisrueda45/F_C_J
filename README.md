@@ -157,3 +157,5 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 # Proceso Principal
 <img width="381" height="617" alt="Captura de pantalla 2026-04-09 175227" src="https://github.com/user-attachments/assets/34caf8bd-90fc-4817-a3b4-a71f568aeb21" />
 
+# Diagra de flujo otros procesos del sistema
+<img width="435" height="577" alt="image" src="https://github.com/user-attachments/assets/cc0bca02-b353-4cdc-a730-8f150cfa0e60" />
