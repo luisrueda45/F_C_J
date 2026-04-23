@@ -159,3 +159,7 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 
 # Diagra de flujo otros procesos del sistema
 <img width="435" height="577" alt="image" src="https://github.com/user-attachments/assets/cc0bca02-b353-4cdc-a730-8f150cfa0e60" />
+
+# Diagrama Registro de usuario
+<img width="454" height="788" alt="image" src="https://github.com/user-attachments/assets/d6d17bde-400d-4a82-a407-4a9d8c56ad10" />
+
