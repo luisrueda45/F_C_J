@@ -168,6 +168,10 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 
 <img width="454" height="788" alt="image" src="https://github.com/user-attachments/assets/d6d17bde-400d-4a82-a407-4a9d8c56ad10" />
 
+# diagrama inicio sesion
+
+<img width="518" height="808" alt="image" src="https://github.com/user-attachments/assets/01f22c45-a2d0-4fb2-b64f-059713333b8a" />
+
 
 
 
