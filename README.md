@@ -170,6 +170,11 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 # Diagrama Registro de membresia
 <img width="305" height="282" alt="image" src="https://github.com/user-attachments/assets/33e1cbb2-0666-4b6f-a174-7b2f53d04b93" />
 
+# Otras funciones del sistema
+
+<img width="795" height="821" alt="image" src="https://github.com/user-attachments/assets/62de8014-7bb0-4546-90a0-994cccb114fe" />
+
+
 
 
 
