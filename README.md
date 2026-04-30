@@ -172,7 +172,8 @@ No, solo el administrador puede ver y configurar el sistema y el recepcionista p
 
 # Otras funciones del sistema
 
-<img width="795" height="821" alt="image" src="https://github.com/user-attachments/assets/62de8014-7bb0-4546-90a0-994cccb114fe" />
+<img width="992" height="973" alt="image" src="https://github.com/user-attachments/assets/084a4d65-0c60-49c7-a13a-f3759822c9fa" />
+
 
 
 
