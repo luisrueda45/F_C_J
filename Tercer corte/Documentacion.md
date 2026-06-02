@@ -5,3 +5,7 @@ El auditor supervisa y revisa los movimientos del sistema para verificar que tod
 
 ## Tabla Principal: Usuarios
 <img width="880" height="662" alt="image" src="https://github.com/user-attachments/assets/36651a3e-16a7-49f0-9026-8267f676c320" />
+
+## TABLA PRINCIPAL ADMIN
+<img width="878" height="569" alt="image" src="https://github.com/user-attachments/assets/40ae8fe6-9250-45da-9258-4702a4d7a79b" />
+
