@@ -49,4 +49,11 @@ Cliente: es la persona que proporciona la información y, en algunos casos, la i
 *	Verifica su información: revisa que lo que se anoto sea correcto y avisa si hay errores.
 *	Actualizar datos: informa si cambia algún dato personal o contacto en el futuro.
 
+2.	¿Qué FUNCIÓN de validación debe realizar el sistema automáticamente?
+   Para validar la información el sistema necesitara:  
+*	Comprobar que la dirección del correo electrónico sea la adecuada.
+*	Verificar que se hayan llenado todos los campos necesarios.
+*	Revisar que la clave cumpla con las normas de seguridad.
+*	Confirmar que la edad mínima estipulada sea la correcta.
+*	Excluir caracteres no permitidos en los nombres y apellidos.
 
