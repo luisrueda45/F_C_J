@@ -12,3 +12,6 @@ El auditor supervisa y revisa los movimientos del sistema para verificar que tod
 ## tabla recepcionista
 <img width="1051" height="565" alt="image" src="https://github.com/user-attachments/assets/b7d41a7a-8f1e-463b-a2c5-de042107c24f" />
 
+## tabla rutinas
+<img width="988" height="577" alt="image" src="https://github.com/user-attachments/assets/d9607d61-a75b-483e-8aa8-c64e9278979e" />
+
