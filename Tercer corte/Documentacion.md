@@ -24,3 +24,6 @@ El auditor supervisa y revisa los movimientos del sistema para verificar que tod
 ## tabla de membresia
 <img width="993" height="468" alt="image" src="https://github.com/user-attachments/assets/02834625-8794-4584-a1f8-6d3a1ca75a49" />
 
+## tabla equipos del gimnacio
+<img width="901" height="565" alt="image" src="https://github.com/user-attachments/assets/d40a68fa-2e8c-438b-957d-b3461d92df4d" />
+
