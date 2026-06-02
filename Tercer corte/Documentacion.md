@@ -77,3 +77,13 @@ Si el rol encargado ingresa datos incorrectos o incompletos:
 ## DICCIONARIO DE DATOS
 <img width="771" height="180" alt="image" src="https://github.com/user-attachments/assets/a46f2ee1-6e08-4191-bff9-b6a67183f0f6" />
 
+# protocolo funcional
+## VALIDACIÓN DE ENTRADA
+
+El sistema evita errores validando:
+*	Campos obligatorios.
+*	Correos válidos.
+*	Contraseñas seguras.
+*	Números positivos.
+*	Usuarios duplicados.
+* ayuda a evitar datos incorrectos en el sistema.
