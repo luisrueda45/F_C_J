@@ -65,3 +65,10 @@ Si el rol encargado ingresa datos incorrectos o incompletos:
 *	El sistema mandaría avisos a correos erróneos.
 *	Los informes de la dirección presentarían datos erróneos.
 *	Se vería perjudicada la toma de decisiones del gimnasio.
+
+## MATRIZ RACI
+<img width="708" height="178" alt="image" src="https://github.com/user-attachments/assets/1adb886f-0cdf-4c10-9fac-6842e3badc9c" />
+*	R: Responsable de realizar la tarea
+*	A: Quien aprueba y supervisa.
+*	C: Consultado.
+*	I: Informado.
