@@ -35,6 +35,7 @@ Recepcionista: es la persona del equipo que ingresa la información en el sistem
 *	Verifica que la información este correcta y completa.
 *	Escribe, registra o carga todos los datos en el sistema oficial.
 *	Corrige errores si es necesario y confirma si el registro queda guardado.
+
 Administrador: es quien gestiona, controla y supervisa todo el proceso. Sus funciones son.
 *	Gestiona el sistema: da mantenimiento, configura accesos y asegura que la plataforma funcione bien
 *	Supervisa registros: revisa que los datos ingresados por el recepcionista o el cliente sean veraces, ordenados y seguros.
