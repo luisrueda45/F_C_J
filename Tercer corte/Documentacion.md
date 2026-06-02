@@ -18,3 +18,6 @@ El auditor supervisa y revisa los movimientos del sistema para verificar que tod
 ## tabla horarios
 <img width="1000" height="616" alt="image" src="https://github.com/user-attachments/assets/c94261ff-a604-44aa-a28d-03725f6d25e2" />
 
+## tabla De instructores
+<img width="943" height="583" alt="image" src="https://github.com/user-attachments/assets/b35620d4-1662-4b33-a8ba-bc7600578fb2" />
+
