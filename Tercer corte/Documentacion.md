@@ -29,7 +29,7 @@ El auditor supervisa y revisa los movimientos del sistema para verificar que tod
 
 # DEFINICIÓN DE ROLES Y FUNCIONES
 
-1.	Rol encargado de capturar los datos:
+## 1.	Rol encargado de capturar los datos:
 Recepcionista: es la persona del equipo que ingresa la información en el sistema. Sus tareas son.
 * recibir los datos del cliente documentos, formularios y solicitudes.
 *	Verifica que la información este correcta y completa.
@@ -49,7 +49,7 @@ Cliente: es la persona que proporciona la información y, en algunos casos, la i
 *	Verifica su información: revisa que lo que se anoto sea correcto y avisa si hay errores.
 *	Actualizar datos: informa si cambia algún dato personal o contacto en el futuro.
 
-2.	¿Qué FUNCIÓN de validación debe realizar el sistema automáticamente?
+## 2.	¿Qué FUNCIÓN de validación debe realizar el sistema automáticamente?
    Para validar la información el sistema necesitara:  
 *	Comprobar que la dirección del correo electrónico sea la adecuada.
 *	Verificar que se hayan llenado todos los campos necesarios.
