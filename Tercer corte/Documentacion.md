@@ -15,3 +15,6 @@ El auditor supervisa y revisa los movimientos del sistema para verificar que tod
 ## tabla rutinas
 <img width="988" height="577" alt="image" src="https://github.com/user-attachments/assets/d9607d61-a75b-483e-8aa8-c64e9278979e" />
 
+## tabla horarios
+<img width="1000" height="616" alt="image" src="https://github.com/user-attachments/assets/c94261ff-a604-44aa-a28d-03725f6d25e2" />
+
