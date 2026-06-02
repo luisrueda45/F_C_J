@@ -57,3 +57,11 @@ Cliente: es la persona que proporciona la información y, en algunos casos, la i
 *	Confirmar que la edad mínima estipulada sea la correcta.
 *	Excluir caracteres no permitidos en los nombres y apellidos.
 
+## 3.	¿Qué sucede con la información del sistema si este Rol no cumple su Función?
+Si el rol encargado ingresa datos incorrectos o incompletos:
+*	Los informes de administración contendrán fallos.
+*	Podría haber usuarios duplicados.
+*	Existirían dificultades con los pagos y las membresías.
+*	El sistema mandaría avisos a correos erróneos.
+*	Los informes de la dirección presentarían datos erróneos.
+*	Se vería perjudicada la toma de decisiones del gimnasio.
