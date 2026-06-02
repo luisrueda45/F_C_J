@@ -87,3 +87,10 @@ El sistema evita errores validando:
 *	Números positivos.
 *	Usuarios duplicados.
 * ayuda a evitar datos incorrectos en el sistema.
+
+## ARQUITECTURA DEL SISTEMA
+El sistema funciona en cuatro pasos:
+1.	Registro de datos.
+2.	Validación y procesamiento.
+3.	Almacenamiento en base de datos.
+4.	Generación de reportes.
