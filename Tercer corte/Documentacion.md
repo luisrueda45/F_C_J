@@ -73,3 +73,7 @@ Si el rol encargado ingresa datos incorrectos o incompletos:
 *	A: Quien aprueba y supervisa.
 *	C: Consultado.
 *	I: Informado.
+
+## DICCIONARIO DE DATOS
+<img width="771" height="180" alt="image" src="https://github.com/user-attachments/assets/a46f2ee1-6e08-4191-bff9-b6a67183f0f6" />
+
