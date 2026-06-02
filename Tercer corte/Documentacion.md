@@ -9,3 +9,6 @@ El auditor supervisa y revisa los movimientos del sistema para verificar que tod
 ## TABLA PRINCIPAL ADMIN
 <img width="878" height="569" alt="image" src="https://github.com/user-attachments/assets/40ae8fe6-9250-45da-9258-4702a4d7a79b" />
 
+## tabla recepcionista
+<img width="1051" height="565" alt="image" src="https://github.com/user-attachments/assets/b7d41a7a-8f1e-463b-a2c5-de042107c24f" />
+
