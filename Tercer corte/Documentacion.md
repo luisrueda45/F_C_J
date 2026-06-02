@@ -21,3 +21,6 @@ El auditor supervisa y revisa los movimientos del sistema para verificar que tod
 ## tabla De instructores
 <img width="943" height="583" alt="image" src="https://github.com/user-attachments/assets/b35620d4-1662-4b33-a8ba-bc7600578fb2" />
 
+## tabla de membresia
+<img width="993" height="468" alt="image" src="https://github.com/user-attachments/assets/02834625-8794-4584-a1f8-6d3a1ca75a49" />
+
