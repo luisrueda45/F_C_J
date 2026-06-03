@@ -94,3 +94,7 @@ El sistema funciona en cuatro pasos:
 2.	Validación y procesamiento.
 3.	Almacenamiento en base de datos.
 4.	Generación de reportes.
+
+## TIPO DE SISTEMA DE INFORMACIÓN
+El proyecto se clasifica como un TPS (Sistema de Procesamiento de Transacciones), porque procesa operaciones diarias como ventas, membresías e inventario.
+Es utilizado principalmente por empleados y administradores del gimnasio.
